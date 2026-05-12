@@ -66,9 +66,13 @@ cp .env.example .env
 
 ## Equipe e responsabilidades
 
-* Engenharia e Infra: Daniel Linhares e Camila
-* Dados e Ingestão (XML): Nathalia
-* Baselines e LLM: Gisele
+* Lider de Equipe: Daniel Linhares
+* Lider de Dados: Nathalia Gomes
+* Lider de Modelagem: Gisele Fonsceca
+* Lideres de Engenharia: Camila Soares / Daniel Linhares
+* Lider de Avaliação: Saimom Goz Siebem
+* Lider de Documentação: Stanley de Oliveira Souza
+* Lideres de Comunicação/Apresentação: Saimom Goz Siebem / Daniel Linhares / Nathlia Gomes
 
 ---
 
@@ -83,7 +87,7 @@ Cada membro possui uma área de atuação clara para evitar sobreposição de ta
 | Membro | Frente de atuação | Responsabilidade principal |
 |---|---|---|
 | Daniel Linhares | Engenharia & Infra | Manutenção do motor RAG, validação de ambiente e revisão de Pull Requests. |
-| Nathalia, Camila & Saimon | Dados & Ingestão | Coleta, limpeza e estruturação dos XMLs oficiais do LexML na pasta `data/raw`. |
+| Nathalia, Camila & Saimom | Dados & Ingestão | Coleta, limpeza e estruturação dos XMLs oficiais do LexML na pasta `data/raw`. |
 | Gisele & Stanley | Baselines & LLM | Criação de notebooks de teste, refino de prompts e avaliação da precisão das respostas. |
 
 ### 2. Fluxo de trabalho no Git (Git Flow profissional)
